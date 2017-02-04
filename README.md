@@ -1,1 +1,1 @@
-# ssdeeppy
+python 版本模糊hash算法。
